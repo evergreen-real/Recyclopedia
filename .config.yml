@@ -1,0 +1,8 @@
+# Ported from LineOS Repo and in turn sent to Recyclopedia
+
+markdown: kramdown
+title: Recyclopedia
+description: The free recycling encyclopedia.
+url: "https://evergreen-real.github.io/Recyclopedia/wiki"
+plugins:
+  - jekyll-sitemap
