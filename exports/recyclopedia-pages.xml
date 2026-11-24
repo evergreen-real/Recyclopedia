@@ -1,0 +1,174 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Recyclopedia</sitename>
+    <dbname>my_wiki</dbname>
+    <base>https://recyclopedia.page.gd/index.php/Main_Page</base>
+    <generator>MediaWiki 1.46.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Recyclopedia</namespace>
+      <namespace key="5" case="first-letter">Recyclopedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Main Page</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>1</id>
+      <timestamp>2026-11-18T07:57:16Z</timestamp>
+      <contributor>
+        <username>MediaWiki default</username>
+        <id>2</id>
+      </contributor>
+      <origin>1</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="755" sha1="22vz5zlxa2zctewimaum2bf1due8hkl" xml:space="preserve">&lt;strong&gt;MediaWiki has been installed.&lt;/strong&gt;
+
+Consult the [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents User's Guide] for information on using the wiki software.
+
+== Getting started ==
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Configuration settings list]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ MediaWiki FAQ]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ MediaWiki release mailing list]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Localise MediaWiki for your language]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Learn how to combat spam on your wiki]</text>
+      <sha1>22vz5zlxa2zctewimaum2bf1due8hkl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User:Recyclopedia</title>
+    <ns>2</ns>
+    <id>2</id>
+    <revision>
+      <id>2</id>
+      <timestamp>2026-11-18T13:39:16Z</timestamp>
+      <contributor>
+        <username>Recyclopedia</username>
+        <id>3</id>
+      </contributor>
+      <comment>Created page with "=Recyclopedia= ==Who am I?== Being the owner, I run the whole of Recyclopedia, the Bluebin System (COMING SOON) and the Recyclopedian Moderator's Council (ALSO COMING SOON). ==Styles and Stuff== **My Signature** --~~~~"</comment>
+      <origin>2</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="ifew46aew8uz3y70bnhpptzrgydsbjm" xml:space="preserve">=Recyclopedia=
+==Who am I?==
+Being the owner, I run the whole of Recyclopedia, the Bluebin System (COMING SOON) and the Recyclopedian Moderator's Council (ALSO COMING SOON).
+==Styles and Stuff==
+**My Signature**
+--[[User:Recyclopedia|Recyclopedia]] ([[User talk:Recyclopedia|talk]]) 13:39, 18 November 2026 (UTC)</text>
+      <sha1>ifew46aew8uz3y70bnhpptzrgydsbjm</sha1>
+    </revision>
+    <revision>
+      <id>3</id>
+      <parentid>2</parentid>
+      <timestamp>2026-11-18T13:43:47Z</timestamp>
+      <contributor>
+        <username>Recyclopedia</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <origin>3</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="436" sha1="bjdmfvf875es8dnaum60lxr3vi4qblb" xml:space="preserve">==Who am I?==
+Being the owner, I run the whole of Recyclopedia, the Bluebin System (COMING SOON) and the Recyclopedian Moderator's Council (ALSO COMING SOON).
+==Styles and Stuff==
+'''My Signature&lt;br&gt;(It will always look like this even without the span tags as an account thief countermeasure.)'''&lt;br&gt;
+--[[User:Recyclopedia|&lt;span style="color: green;"&gt;Recyclopedia&lt;/span&gt;]] ([[User talk:Recyclopedia|talk]]) 13:39, 18 November 2026 (UTC)</text>
+      <sha1>bjdmfvf875es8dnaum60lxr3vi4qblb</sha1>
+    </revision>
+    <revision>
+      <id>4</id>
+      <parentid>3</parentid>
+      <timestamp>2026-11-18T13:56:44Z</timestamp>
+      <contributor>
+        <username>Recyclopedia</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>/* Styles and Stuff */</comment>
+      <origin>4</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="436" sha1="hos0bhliqrk2mgf7ya22z8hybw33jgv" xml:space="preserve">==Who am I?==
+Being the owner, I run the whole of Recyclopedia, the Bluebin System (COMING SOON) and the Recyclopedian Moderator's Council (ALSO COMING SOON).
+==Styles and Stuff==
+'''My Signature&lt;br&gt;(It will always look like this even without the span tags as an account thief countermeasure.)'''&lt;br&gt;
+--[[User:Recyclopedia|&lt;span style="color: green;"&gt;Recyclopedia&lt;/span&gt;]] ([[User talk:Recyclopedia|talk]]) 13:56, 18 November 2026 (UTC)</text>
+      <sha1>hos0bhliqrk2mgf7ya22z8hybw33jgv</sha1>
+    </revision>
+    <revision>
+      <id>5</id>
+      <parentid>4</parentid>
+      <timestamp>2026-11-18T13:57:09Z</timestamp>
+      <contributor>
+        <username>Recyclopedia</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* Styles and Stuff */</comment>
+      <origin>5</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="300" sha1="hh16yjmtqxwrguexl8ayu4gv4r2z40y" xml:space="preserve">==Who am I?==
+Being the owner, I run the whole of Recyclopedia, the Bluebin System (COMING SOON) and the Recyclopedian Moderator's Council (ALSO COMING SOON).
+==Styles and Stuff==
+'''My Signature&lt;br&gt;(It will always look like this even without the span tags as an account thief countermeasure.)'''&lt;br&gt;</text>
+      <sha1>hh16yjmtqxwrguexl8ayu4gv4r2z40y</sha1>
+    </revision>
+    <revision>
+      <id>6</id>
+      <parentid>5</parentid>
+      <timestamp>2026-11-18T13:57:19Z</timestamp>
+      <contributor>
+        <username>Recyclopedia</username>
+        <id>3</id>
+      </contributor>
+      <origin>6</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="436" sha1="lgflhrq39vp89j1zkj8m3towx12l9gf" xml:space="preserve">==Who am I?==
+Being the owner, I run the whole of Recyclopedia, the Bluebin System (COMING SOON) and the Recyclopedian Moderator's Council (ALSO COMING SOON).
+==Styles and Stuff==
+'''My Signature&lt;br&gt;(It will always look like this even without the span tags as an account thief countermeasure.)'''&lt;br&gt;
+--[[User:Recyclopedia|&lt;span style="color: green;"&gt;Recyclopedia&lt;/span&gt;]] ([[User talk:Recyclopedia|talk]]) 13:57, 18 November 2026 (UTC)</text>
+      <sha1>lgflhrq39vp89j1zkj8m3towx12l9gf</sha1>
+    </revision>
+    <revision>
+      <id>7</id>
+      <parentid>6</parentid>
+      <timestamp>2026-11-18T13:57:41Z</timestamp>
+      <contributor>
+        <username>Recyclopedia</username>
+        <id>3</id>
+      </contributor>
+      <comment>/* Styles and Stuff */</comment>
+      <origin>7</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="338" sha1="axktt4o8fyfjty1ux2mv7c28atqdy3o" xml:space="preserve">==Who am I?==
+Being the owner, I run the whole of Recyclopedia, the Bluebin System (COMING SOON) and the Recyclopedian Moderator's Council (ALSO COMING SOON).
+==Styles and Stuff==
+'''My Signature'''&lt;br&gt;
+--[[User:Recyclopedia|&lt;span style="color: green;"&gt;Recyclopedia&lt;/span&gt;]] ([[User talk:Recyclopedia|talk]]) 13:57, 18 November 2026 (UTC)</text>
+      <sha1>axktt4o8fyfjty1ux2mv7c28atqdy3o</sha1>
+    </revision>
+  </page>
+</mediawiki>
